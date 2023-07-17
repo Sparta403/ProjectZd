@@ -1,0 +1,20 @@
+Metadata-Version: 1.1
+Name: ProjectZPlus
+Version: 1.1
+Summary: An asynchronous library for creating scripts and chatbots in Project Z.
+Home-page: https://github.com/akat4/Project-Z-Plus
+Author: D4rkwat3r
+Author-email: dyam1487@gmail.com
+License: UNKNOWN
+Keywords: project-z,projectz,projz,bots,api,supersymlab,projz-bot,projz-bots,projz-api
+Platform: UNKNOWN
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+# ProjZ
+A simple asynchronous library for interaction with Project Z
+
+## Installation
+ ```commandline
+ pip install projz.py
+ ```
